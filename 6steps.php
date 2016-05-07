@@ -36,7 +36,7 @@ function section_nav($page, $pages_array) {
 	$file = $_SERVER['PHP_SELF'];
 	echo '<h1>Guide to improving your business using BUSINESS MANAGEMENT SYSTEMS</h1>';
 
-	echo '<img src="images/guide_contents.png">';
+	echo '<img src="images/guide_contents_469x500.png">';
 	
 	/*
 	echo '<ul>';
