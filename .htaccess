@@ -1,0 +1,15 @@
+# AddType application/x-httpd-php .htm .html
+# AddType application/x-squeak-object .pr
+
+RewriteEngine	On	
+Options		+FollowSymlinks
+
+RewriteBase	/
+RewriteRule	^\.htaccess$						-	[F]
+
+RewriteRule ^upload/.*$ /upload.php [R=301,L]
+
+RewriteRule ^files/Dates.pdf$ /dates.php [R=301,L]
+
+#RewriteCond %{http_host} !^www.systemsyieldsuccess\.co\.uk
+#RewriteRule ^(.*)$ http://www.systemsyieldsuccess.co.uk/$1 [R=301,L]

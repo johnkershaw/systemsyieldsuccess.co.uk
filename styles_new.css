@@ -1,0 +1,180 @@
+/* dark blue: #002E86; light blue: #BECEF4; */
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	color: #00009C;
+	background-color: #FFFFFF;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+	margin: 0cm;
+	margin-top: 8pt;
+	margin-bottom: 2pt;
+}
+
+h1
+{
+	font-size: 110%;
+	font-style: italic;
+	color: #009;
+	text-transform: uppercase;
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+}
+
+h2
+{
+	font-size: 95%;
+	margin-top: 12pt;
+	margin-bottom: 2pt;
+}
+
+.section
+{
+	color: #039;
+	background-color: #FFF;
+	border-color: #002E86;
+	border-width: 1px;
+	border-style: solid;
+	padding: 3px;
+}
+
+h2.section
+{
+	color: #FFF;
+	background-color: #039;
+	font-size: 95%;
+	margin-top: 2pt;
+	margin-bottom: 6pt;
+}
+
+p
+{
+	margin: 0cm;
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+}
+
+li { margin-bottom: 3pt; }
+
+dl {
+	margin: 0;
+	padding: 0;
+}
+
+dt {
+	margin: 0 0 0 0;
+	padding: 0;
+	font-weight: bold;
+	float:left;
+	clear:left;
+	display:inline;
+}
+
+.block dt
+{
+	display: block;
+	float: none;
+}
+
+.block dd
+{
+	display: block;
+	float: none;
+	margin: 0 0 1em 0;
+}
+
+dd {
+	margin: 0 0 1em 20%;
+	padding: 0 0 0 1em;
+	width: 80%
+}
+
+.list dd {
+	margin: 0 0 0.5em 1em;
+	padding: 0 0 0 3em;
+}
+
+.nav
+{
+	color: #039;
+	background-color: #BECEF4;
+	border-color: #002E86;
+	border-width: 1px;
+	border-style: solid;
+	font-weight: normal;
+	padding: 3px;
+	width: auto;
+	margin: 0 0 10px 0;
+	font-size: 90%;
+}
+
+.input-output
+{
+	color: #039;
+	background-color: #BECEF4;
+	border-color: #002E86;
+	border-width: 1px;
+	border-style: solid;
+	font-weight: normal;
+	padding: 3px;
+}
+
+.sidebar
+{
+	color: #FFFFFF;
+	font-weight: bold;
+	background: #999999 url(images/sidebar_repeat.jpg) repeat-y;
+	width: 88px;
+}
+
+.key-requirement { }
+
+.key-meaning
+{
+	color: #993366;
+	border-color: #002E86;
+	border-width: 1px 0px 1px 0px;
+	border-style: solid;
+	font-weight: bold;
+	padding: 3px;
+}
+
+.key-action
+{
+	color: #002E86;
+	text-transform: uppercase;
+}
+
+.key-step
+{
+	background-color: #BECEF4;
+	padding: 3px;
+	border-color: #002E86;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.footer {
+	background:#0000C1;
+	color:white;
+	margin: 0px;
+	padding: 5px;
+}
+
+#logo {
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	border: 1px solid #012F86;
+}
+
+.main-table {
+	width: 95%;
+}
+
+.bg-color {
+	background: #FFD619;
+}
