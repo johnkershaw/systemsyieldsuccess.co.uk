@@ -15,7 +15,8 @@ include ('inc_header.php');
 then do contact us to discuss them, eg on 
 <a href="mailto:sales@systemsys.co.uk">sales@systemsys.co.uk</a>)</p>
 			 
-<h2><a href="files/Overview.pdf">OVERVIEW BROCHURE</a></h2>	 	 
+<h2><a href="files/sys_brochure.pdf">BROCHURE</a></h2>	 	 
+
 <p><i style="color:black">Ref. article; IEE 'Engineering Management'. <a href="contact_us.php">Request a copy</a>.</i></p>
 
 <blockquote>
@@ -59,7 +60,7 @@ Maps, system requirements for these 'Process Approach' based Standards.
 	<p>Provide on-going support to implement an effective &amp; efficient system and ensure Continuous Improvement.</p>
 </blockquote>
 
-<h2><a href="files/CT.pdf">CORE TOOL CONSULTANCY &amp; SUPPORT</a> (to suit)</h2>
+<h2>CORE TOOL CONSULTANCY &amp; SUPPORT (to suit)</h2>
 <blockquote>
 	<p>Provide on-going support to implement effective &amp; efficient Core Tools, including FMEA, SPC &amp; MSA.</p>
 </blockquote>

@@ -15,6 +15,8 @@ include ('inc_header.php');
 	us to discuss them, eg on 
 	<a href="mailto:sales@systemsys.co.uk">sales@systemsys.co.uk</a>.) </em></p>
 	
+	<h2><a href="files/Overview.pdf">BROCHURE</a></h2>	 	 
+
 	<h2><a href="files/Mgt.pdf">MANAGEMENT AWARENESS</a> (In-house) 0.5 day </h2>
 	
 	<p>To give Management at all levels the necessary

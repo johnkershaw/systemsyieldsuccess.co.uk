@@ -18,6 +18,6 @@ include ('inc_header.php');
 
 <p>To be competitive in the global market place, British industry needs to get added value from everything that it does. Implemented effectively, the above standards will increase your profitability and provide greater customer satisfaction. </p>
 
-<p>The start point should always be your business processes &amp; the Objectives and Targets vital to your survival. Then your actual processes can be compared to the applicable standards to identify any gaps to full compliance. Just follow <a href="files/sys_guide_18_03_2016.pdf">this guide</a>. </p>
+<p>The start point should always be your business processes &amp; the Objectives and Targets vital to your survival. Then your actual processes can be compared to the applicable standards to identify any gaps to full compliance. Just follow <a href="files/sys_guide.pdf">this guide</a>. </p>
 
 <?php include ('inc_footer.php'); ?>
