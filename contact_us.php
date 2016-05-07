@@ -25,7 +25,7 @@ include ('inc_header.php');
 		<li><b>Webmaster:</b> 
 			<a href="mailto:webmaster@systemsys.co.uk">webmaster@systemsys.co.uk</a></li>
 	</ul>
-	<div align="center"><img src="images/alan.jpg" alt="SONY DSC" width="300" height="353"></div>
+	<div align="center"><img src="images/alan.jpg" alt="Photo of Alan in a tux"></div>
 </div>
 
 <?php if ($_REQUEST['status'] == 'sent') {

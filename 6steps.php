@@ -34,9 +34,9 @@ $pages_array = array(
 function section_nav($page, $pages_array) {
 	
 	$file = $_SERVER['PHP_SELF'];
-	echo '<h1>Guide to improving your business using BUSINESS MANAGEMENT SYSTEMS</h1>';
+	echo '<h1><a href="/files/sys_guide.pdf">Guide to improving your business using BUSINESS MANAGEMENT SYSTEMS</a></h1>';
 
-	echo '<a href="/files/sys_guide.pdf"><img src="images/guide_contents_469x500.png"></a>';
+	echo '<a href="/files/sys_guide.pdf"><img src="images/guide_contents.png"></a>';
 	
 	/*
 	echo '<ul>';

@@ -15,7 +15,7 @@ include ('inc_header.php');
 then do contact us to discuss them, eg on 
 <a href="mailto:sales@systemsys.co.uk">sales@systemsys.co.uk</a>)</p>
 			 
-<h2><a href="files/sys_brochure.pdf">BROCHURE</a></h2>	 	 
+	<h2>All courses are explained in full in our comprehensive <a href="files/sys_brochure.pdf">BROCHURE</a> (pdf).</h2>
 
 <p><i style="color:black">Ref. article; IEE 'Engineering Management'. <a href="contact_us.php">Request a copy</a>.</i></p>
 
