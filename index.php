@@ -1,5 +1,5 @@
 <?php
-$title='Meeting &amp; benefitting from ISO 9001 &amp; ISO/TS16949 in 6 key steps';
+$title='Meeting &amp; benefitting from ISO 9001 &amp; ISO/TS16949';
 
 $sidebar = 'icons';
 include ('inc_header.php');
