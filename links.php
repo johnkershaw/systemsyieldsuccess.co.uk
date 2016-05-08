@@ -21,7 +21,7 @@ include ('inc_header.php');
 		
 		<dt>Accreditation; Laboratories, ...</dt>
 		<dd><a href="http://www.ukas.org/">www.ukas.org</a></dd>
-		<dd><a href="http://www.iso.org/iso/iso9000-14000/understand/qmp.html">www.iso.org/iso/iso9000-14000/understand/qmp.html</a></dd>
+		<dd><a href="http://www.iso.org/iso/iso9000-14000/understand/iso_9000">http://www.iso.org/iso/iso9000-14000/understand/iso_9000</a></dd>
 
 		<dt>Certification Bodies</dt>
 		<dd><a href="http://www.ul-europe.com/en/">www.ul-europe.com/en</a></dd>
