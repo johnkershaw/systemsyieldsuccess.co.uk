@@ -10,7 +10,7 @@ include ('inc_header.php');
 <h1><?= $title ?></h1>
 <h2>Objectives &amp; Outcomes.</h2>
 
-<p>Based on standards such as ISO9001 &amp; the Automotive version ISO/TS16949.</p> 	 
+<p>Based on standards such as ISO9001 &amp; the Automotive version IATF 16949.</p> 	 
 <p>(If you do not see your specific requirements here, 
 then do contact us to discuss them, eg on 
 <a href="mailto:sales@systemsys.co.uk">sales@systemsys.co.uk</a>)</p>

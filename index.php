@@ -1,5 +1,5 @@
 <?php
-$title='Meeting &amp; benefitting from ISO 9001 &amp; ISO/TS16949';
+$title='Meeting &amp; benefitting from ISO 9001 &amp; IATF 16949';
 
 $sidebar = 'icons';
 include ('inc_header.php');
@@ -27,7 +27,7 @@ include ('inc_header.php');
 
 			<td style="width:12em"> 
 				<div align="center" class="input-output"><a href="6steps.php">Business Improvement</a><br>
-					ISO/TS 16949<br>
+					IATF 16949<br>
 					ISO 9001
 				</div>
 			</td>
@@ -50,7 +50,7 @@ include ('inc_header.php');
 	We provide <a href="training.php">Training &amp; Consultancy Support</a> for Internal Auditors, Lead Assessors, Management, and Product &amp; Process Engineers.
 </p>
 <p>
-	Support is outlined in the <strong><em><a href="workshops.php">Consultancy/Workshop</a></em></strong> section and includes identifying company&rsquo;s key processes and mapping them out with their Key Performance Indicators. &nbsp;&nbsp; Levels 1 (System Map) &amp; 2 (Process Maps) of a working &lsquo;<em>html&rsquo;</em> system can be seen in the <strong><em><a href="example.php">Example</a></em></strong> section. 
+	Support is outlined in the <strong><em><a href="workshops.php">Consultancy/Workshop</a></em></strong> section and includes identifying company&rsquo;s key processes and mapping them out with their Key Performance Indicators. &nbsp;&nbsp; Levels 1 (System Map) &amp; 2 (Process Maps) of a working &lsquo;<em>html&rsquo;</em> system can be seen in the <strong><em><a href="/files/sys_example.pdf">Example</a></em></strong> section. 
 </p>
 
 <ul>
@@ -61,10 +61,10 @@ include ('inc_header.php');
 	All services are delivered by Professional Engineers with extensive experience of Group Management, 3<sup>rd</sup> party assessment and Training &amp; Qualifying 3<sup>rd</sup> party assessors.
 </li>
 <li>
-	Companies that have been supported, have achieved or maintained approval to the Quality Management Standards ISO9001 and/or ISO/TS16949 and improved their business performance.&nbsp; 
+	Companies that have been supported, have achieved or maintained approval to the Quality Management Standards ISO9001 and/or IATF 16949 and improved their business performance.&nbsp; 
 </li>
 <li>
-	SYS aims to provide the best service possible and be seen as achieving this, as is shown in representative comments in the <strong><em><a href="feedback.php">Customer Feedback</a></em></strong> section.
+	SYS aims to provide the best service possible and be seen as achieving this, as is shown in representative comments in the <strong><em><a href="files/sys_feedback.pdf">Customer Feedback</a></em></strong> section.
 </li>
 </ul>
 

@@ -66,7 +66,7 @@ switch ($sidebar ) {
 	<p>&nbsp;</p>
 	<p><img src="images/icon_coretools.gif" alt="Icon depicting a figure fixing a conveyor belt" width="105" height="89"></p>
 	<p>&nbsp;</p>
-	<p><img src="images/icon_certificate.gif" alt="SYS Certificate headed 'Your Name'" width="117" height="147"></p>
+	<p><img src="images/icon_certificate.png" alt="SYS Certificate headed 'Your Name'" width="117" height="146"></p>
 	<p>&nbsp;</p>
 	<p><img src="images/icon_customersatisfaction.gif" alt="Icon depicting a figure pointing to a bar/line graph showing an upward trend" width="101" height="103"></p>
 

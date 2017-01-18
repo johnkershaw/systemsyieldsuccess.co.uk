@@ -1,5 +1,5 @@
 <?php
-$title='Meeting &amp; benefitting from ISO 9001 &amp; ISO/TS16949';
+$title='Meeting &amp; benefitting from ISO 9001 &amp; IATF 16949';
 
 include ('inc_header.php');
 ?>
@@ -30,14 +30,14 @@ include ('inc_header.php');
 				
 				<h1>Business Systems Training </h1>
 					<p>based on standards such as ISO 9001 &amp; the Automotive
-						version ISO/TS16949</p>
+						version IATF 16949</p>
 					<p><em>(If you do not see your specific requirements here, then do contact
 						us to discuss them.) </em></p>
 					<h1>COURSES TO SUPPORT YOUR BUSINESS Objectives &amp; Outcomes:</h1>
 					<h2>MANAGEMENT AWARENESS (In-house) 0.5 day </h2>
 					<p>To give Management at all levels of the organization the necessary
 						information about the &lsquo;Process Approach&rsquo; &amp; related standards
-						such as ISO/TS16949. </p>
+						such as IATF 16949. </p>
 					<p>To give Management the facts as to their role in supporting successful
 						implementation and aligning this with the effective running of their
 						business.<br>
@@ -49,7 +49,7 @@ include ('inc_header.php');
 						undertaking real audits; for the in-house course these are against
 						your company&rsquo;s audit schedule.<br>
 						</p>
-					<h2>ISO/TS16949 LEAD ASSESSOR TRAINING (Open or In-house) 5 days </h2>
+					<h2>IATF 16949 LEAD ASSESSOR TRAINING (Open or In-house) 5 days </h2>
 					<p>Gives Automotive Lead Assessors the necessary information to undertake
 						effective First &amp; Second Party Assessments, either on their own or
 						leading a team. </p>
@@ -72,12 +72,12 @@ include ('inc_header.php');
 					<h2>CERTIFICATION</h2>
 					<p>All courses provide a certificate stating the key wording: <br>
 	&quot;Delivered by a trainer who meets the Qualification Criteria defined
-						in Annex 2 of the Automotive certification scheme for ISO/TS 16949&quot;.<br>
+						in Annex 2 of the Automotive certification scheme for IATF 16949&quot;.<br>
 					</p>
 					<h2>FEEDBACK EXAMPLES</h2>
 					<p>
 	&ldquo;Without this training and your sustained support &hellip; we would
-						not have achieved our best ever result at our TS16949 Continual Assessment.&rdquo;  &ldquo;These
+						not have achieved our best ever result at our IATF 16949 Continual Assessment.&rdquo;  &ldquo;These
 						sessions have been invaluable to our company and have helped us to address
 					a number of weaknesses as a business.&rdquo;</p></td>
 			</tr>

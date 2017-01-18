@@ -9,7 +9,7 @@ include ('inc_header.php');
 	<h1><?= $title ?>: To support your business, <span style="text-transform:none">Objectives &amp; Outcomes.</span></h1>
 	
 	<p>Based on standards such as ISO9001 &amp; the Automotive
-	version ISO/TS16949</p>
+	version IATF 16949</p>
 	
 	<p><em>(If you do not see your specific requirements here, then do contact
 	us to discuss them, eg on 
@@ -21,7 +21,7 @@ include ('inc_header.php');
 	
 	<p>To give Management at all levels the necessary
 	information about the &lsquo;Process Approach&rsquo; &amp; standards
-	such as TS16949. </p>
+	such as IATF 16949. </p>
 	
 	<p>To give Management the facts as to their role in successful
 	implementation of these standards and aligning this with the 
@@ -33,13 +33,13 @@ include ('inc_header.php');
 	<p>Supports the Management Team in Developing the Business Plan's 
 	Key Performance Indicators. </p>
 	
-	<h2>ISO9001 &amp; ISO/TS16949 INTERNAL AUDITOR TRAINING (Open &amp; In-house) 
+	<h2>ISO9001 &amp; IATF 16949 INTERNAL AUDITOR TRAINING (Open &amp; In-house) 
 	2 or 3 days <a href="/dates.php">DATES</a></h2>
 	
 	<p>Gives new &amp; existing auditors the necessary skills to 
 	undertake effective internal system &amp; process audits.</p>
 	
-	<h2>ISO/TS16949 LEAD ASSESSOR TRAINING (Open &amp; In-house) 5 days <span style="font-weight:normal">(can be offered on a modular basis)</span>  <a href="/dates.php">DATES</a></h2>
+	<h2>IATF 16949 LEAD ASSESSOR TRAINING (Open &amp; In-house) 5 days <span style="font-weight:normal">(can be offered on a modular basis)</span>  <a href="/dates.php">DATES</a></h2>
 	
 	<p>Gives new &amp; existing Assessors the necessary skills to undertake
 	effective First &amp; Second Party Assessments, either on their own or

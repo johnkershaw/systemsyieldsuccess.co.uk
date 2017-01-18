@@ -10,7 +10,7 @@ include ('inc_header.php');
 	<li>ISO 9001 &lsquo;Quality&rsquo;</li>
 	<li>ISO 14001 &lsquo;Environment&rsquo;</li>
 	<li>OHSAS 18001 &lsquo;Health &amp; Safety&rsquo;</li>
-	<li>ISO/TS16949 &lsquo;Automotive&rsquo;</li>
+	<li>IATF 16949 &lsquo;Automotive&rsquo;</li>
 </ul>
 
 <p>or,<br>

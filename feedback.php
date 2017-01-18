@@ -95,12 +95,12 @@ case 'electron' :
 		<td>
 			<blockquote><p>&lsquo;SYS was recommended to us by one of our major customers.</p>
 				<p>Myself and two other delegates from Electron attended a course and found Alan&rsquo;s training to be of an exceptionally high standard.</p>
-				<p>We chose SYS to help us become approved to the automotive standard ISO/TS16949 which was one of our main company objectives.</p>
+				<p>We chose SYS to help us become approved to the automotive standard IATF 16949 which was one of our main company objectives.</p>
 				<p>SYS helped us to modify, upgrade and simplify our quality systems and 
 				during our readiness review, <b>our third party assessor said that Electron was 
 				the best prepared company he had visited for a stage 1 review</b> - we had Alan to thank for that.</p>
 				<p>We find his wealth of automotive industry knowledge and experience invaluable.</p>
-				<p>We were then approved to ISO/TS16949 and without hesitation we would use SYS again in future should the opportunity arise.&rsquo;</p>
+				<p>We were then approved to IATF 16949 and without hesitation we would use SYS again in future should the opportunity arise.&rsquo;</p>
 				</p>
 
 				<br />
@@ -211,7 +211,7 @@ case 'ttelectronics' :
 		</td>
 		<td>
 			<blockquote>
-				"...without this training and your sustained support... we would not have been able to achieve our best ever result at our recent TS16949 continual assessment..."
+				"...without this training and your sustained support... we would not have been able to achieve our best ever result at our recent IATF 16949 continual assessment..."
 				<br />
 				<br />
 				<i>Andrew Bell, Quality Manager, TT Eelctronics</i>

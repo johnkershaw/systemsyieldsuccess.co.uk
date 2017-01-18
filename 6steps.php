@@ -1,5 +1,5 @@
 <?php
-$title='Guide to Meeting &amp; benefitting from ISO 9001 &amp; ISO/TS16949';
+$title='Guide to Meeting &amp; benefitting from ISO 9001 &amp; IATF 16949';
 
 $sidebar = '';
 include ('inc_header.php');
@@ -15,13 +15,13 @@ $pages_array = array(
 	link => 'What do you do, and how?', 
 	desc => 'System Map', 
 	stage => 'Steps 1 &amp; 2: ', 
-	example => 'example.php'
+	example => '/files/sys_example.pdf'
 	),
 	'process_map' => array(
 	link => 'Streamline your processes', 
 	desc => 'Process Map', 
 	stage => 'Steps 3 &amp; 4: ', 
-	example => 'example.php?page=8&file=gif_9.htm'
+	example => '/files/sys_example.pdf?page=8&file=gif_9.htm'
 	),
 	'visual_monitor' => array(
 	link => 'Prove you\'re improving', 
@@ -52,7 +52,7 @@ function section_nav($page, $pages_array) {
 	}	
 	echo '</ul>';
 	*/
-	echo '<p><a href="glossary.php">Glossary of terms</a></p>';
+	echo '<p><a href="files/sys_glossary.pdf">Glossary of terms</a></p>';
 }
 
 $pages_keys = array_keys($pages_array);
@@ -72,7 +72,7 @@ $pages_keys = array_keys($pages_array);
 
 <div class="key-step">
 
-<p class="key-requirement">Has your company been forced to obtain approval to Quality management standards such as ISO9001 and ISO/TS 16949?  Have you achieved the certificate without any benefit?</p>
+<p class="key-requirement">Has your company been forced to obtain approval to Quality management standards such as ISO9001 and IATF 16949?  Have you achieved the certificate without any benefit?</p>
 
 <p class="key-meaning">To be competitive in the global market place, British industry needs to get added value from everything that it does. Implemented effectively, these standards will increase profitability and provide greater customer satisfaction.  The start point should always be your business processes. These pages take you through how to go about implementing systems to obtain these real benefits.</p>
 
