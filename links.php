@@ -24,9 +24,9 @@ include ('inc_header.php');
 		<dd><a href="http://www.iso.org/iso/iso9000-14000/understand/iso_9000">http://www.iso.org/iso/iso9000-14000/understand/iso_9000</a></dd>
 
 		<dt>Certification Bodies</dt>
-		<dd><a href="http://www.ul-europe.com/en/">www.ul-europe.com/en</a></dd>
+		<dd><a href="http://www.ul-europe.com/en/">www.ul-europe.com</a></dd>
 		<dd><a href="http://www.lrqa.co.uk/">www.lrqa.co.uk</a></dd>
-		<dd><a href="http://www.bureauveritas.co.uk/">www.bureauveritas.co.uk/</a></dd>
+		<dd><a href="https://www.bsigroup.com/en-GB/">www.bsigroup.com</a></dd>
 	</dl>
 
 	<h2>CERTIFICATION</h2>
