@@ -47,7 +47,7 @@ include ('inc_header.php');
 	<strong><em>Systemsys Ltd</em> helps companies, particularly in the UK, to improve their business performance using the Process Approach and obtain third party Approval where this is required. </strong>
 </p>
 <p>
-	We provide <a href="training.php">Training &amp; Consultancy Support</a> for Internal Auditors, Lead Assessors, Management, and Product &amp; Process Engineers.
+	We provide <a href="training.php">Training &amp; Consultancy Support</a> for Internal Auditors, Management, and Product &amp; Process Engineers.
 </p>
 <p>
 	Support is outlined in the <strong><em><a href="workshops.php">Consultancy/Workshop</a></em></strong> section and includes identifying company&rsquo;s key processes and mapping them out with their Key Performance Indicators. &nbsp;&nbsp; Levels 1 (System Map) &amp; 2 (Process Maps) of a working &lsquo;<em>html&rsquo;</em> system can be seen in the <strong><em><a href="/files/sys_example.pdf">Example</a></em></strong> section. 

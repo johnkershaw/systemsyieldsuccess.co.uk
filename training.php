@@ -39,11 +39,11 @@ include ('inc_header.php');
 	<p>Gives new &amp; existing auditors the necessary skills to 
 	undertake effective internal system &amp; process audits.</p>
 	
-	<h2>IATF 16949 LEAD ASSESSOR TRAINING (Open &amp; In-house) 5 days <span style="font-weight:normal">(can be offered on a modular basis)</span>  <a href="/dates.php">DATES</a></h2>
+	<h2>IATF 16949 'LEAD' AUDITOR TRAINING (Open &amp; In-house) 5 or 6  days <span style="font-weight:normal">(can be offered on a modular basis)</span>  <a href="/dates.php">DATES</a></h2>
 	
-	<p>Gives new &amp; existing Assessors the necessary skills to undertake
-	effective First &amp; Second Party Assessments, either on their own or
-	leading a team. This course includes evaluation of performance and written examination, and certification stating the results.</p>
+	<p>Gives new &amp; existing Auditors the necessary skills to undertake
+	effective Internal Audits, either on their own or
+	leading a team. This course includes evaluation of performance and written examination, and certification stating the results. Sometimes referred to as 'Assessor' course.</p>
 	
 	<p><i style="color:#06C;">** Most of our courses allow you to obtain 
 	actual audit experience,
